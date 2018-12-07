@@ -1,0 +1,21 @@
+
+      <iframe
+        src="https://tokbox.com/embed/embed/ot-embed.js?embedId=0f30769d-0ffa-4ba5-99c9-0b95f587da91&room=DEFAULT_ROOM&iframe=true"
+        width="800px"
+        height="640px"
+        allow="microphone; camera"
+      ></iframe>
+    
+
+
+
+    <div id="otEmbedContainer" style="width:800px; height:640px"></div>
+                  <script src="https://tokbox.com/embed/embed/ot-embed.js?embedId=0f30769d-0ffa-4ba5-99c9-0b95f587da91&room=DEFAULT_ROOM"></script>
+
+
+
+
+46224992                  
+
+
+b6db2cf7bef64a51e61fc167550d1717ab82f572
